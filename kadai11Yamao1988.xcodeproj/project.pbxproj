@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		191687342C0DD7DD003DD1D6 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191687332C0DD7DD003DD1D6 /* TableViewController.swift */; };
 		19EDE5202C073CC60054A85E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19EDE51F2C073CC60054A85E /* AppDelegate.swift */; };
 		19EDE5222C073CC60054A85E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19EDE5212C073CC60054A85E /* SceneDelegate.swift */; };
 		19EDE5242C073CC60054A85E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19EDE5232C073CC60054A85E /* ViewController.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		191687332C0DD7DD003DD1D6 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		19EDE51C2C073CC60054A85E /* kadai11Yamao1988.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kadai11Yamao1988.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		19EDE51F2C073CC60054A85E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		19EDE5212C073CC60054A85E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,7 +62,6 @@
 				19EDE5212C073CC60054A85E /* SceneDelegate.swift */,
 				19EDE5232C073CC60054A85E /* ViewController.swift */,
 				19EDE5332C0C57840054A85E /* PrefectureTableViewController.swift */,
-				191687332C0DD7DD003DD1D6 /* TableViewController.swift */,
 				19EDE5252C073CC60054A85E /* Main.storyboard */,
 				19EDE5282C073CC70054A85E /* Assets.xcassets */,
 				19EDE52A2C073CC70054A85E /* LaunchScreen.storyboard */,
@@ -147,7 +144,6 @@
 				19EDE5242C073CC60054A85E /* ViewController.swift in Sources */,
 				19EDE5202C073CC60054A85E /* AppDelegate.swift in Sources */,
 				19EDE5342C0C57840054A85E /* PrefectureTableViewController.swift in Sources */,
-				191687342C0DD7DD003DD1D6 /* TableViewController.swift in Sources */,
 				19EDE5222C073CC60054A85E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
